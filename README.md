@@ -32,6 +32,7 @@ This is a compilation of resources shared by the community members of BUIDLBESTI
   <li><a href="https://www.learnweb3.io/">Learn Web3 Dao</a></li>
   <li><a href="https://www.learnweb3.io/">BuildSpace: Learn by Building</a></li>
   <li><a href="https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org">Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial</a></li>
+  <li><a href="https://learn.figment.io/">Figment: Web3 educational content</a></li>
 
 
 ### Kindly note that this is not the original work of buidlbesties 
