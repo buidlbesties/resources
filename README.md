@@ -12,7 +12,7 @@ This is a compilation of resources shared by the community members of BUIDLBESTI
   <li><a href="https://scrimba.com/learn/htmlcss">Scrimba: HTML and CSS Crash Course</a></li>
   <li><a href="https://scrimba.com/learn/basicjavascript">Scrimba: Basic Javascript</a></li>
   <li><a href="https://scrimba.com/learn/learnjavascript">Scrimba: Learn JavaScript</a></li>
-  <li><a href="https://scrimba.com/learn/learnreact"></a>Scrimba: React</li>
+  <li><a href="https://scrimba.com/learn/learnreact">Scrimba: React</a></li>
   <li><a href="https://www.theodinproject.com/">The Odin Project : HTML, CSS, JavaScript, React, NodeJS<a></li>
 <br>
 <br>
@@ -32,3 +32,6 @@ This is a compilation of resources shared by the community members of BUIDLBESTI
   <li><a href="https://www.learnweb3.io/">Learn Web3 Dao</a></li>
   <li><a href="https://www.learnweb3.io/">BuildSpace: Learn by Building</a></li>
   <li><a href="https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org">Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial</a></li>
+
+
+### Kindly note that this is a compilation of open source resources and free projects if you would like to add to the list ping us on discord. :)
