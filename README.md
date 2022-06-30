@@ -34,4 +34,4 @@ This is a compilation of resources shared by the community members of BUIDLBESTI
   <li><a href="https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org">Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial</a></li>
 
 
-### Kindly note that this is a compilation of open source resources and free projects if you would like to add to the list ping us on discord. :)
+### Kindly note that this is not the original work of buidlbesties 
